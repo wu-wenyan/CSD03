@@ -31,3 +31,4 @@ for (int j = 0; j <= 9; j++)
     }
     dt = dt.AddDays(-1);
 }
+Console.ReadLine();
